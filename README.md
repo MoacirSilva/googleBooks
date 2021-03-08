@@ -1,2 +1,2 @@
 # googleBooks
-Search books app, add favorites books in database
+Search books app, add favorite books in database
